@@ -1,2 +1,2 @@
-# photo-grid
+# Photo Grid
 Simple photo grid.
